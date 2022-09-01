@@ -51,6 +51,7 @@ werkzeug = "==2.0.1"
 wtforms = "==2.3.3"
 
 [dev-packages]
+colorama = "*"
 
 [requires]
 python_version = "3.8"
